@@ -1,3 +1,4 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## 1.0.1
+* added version to documentation.
+## 1.0.0
+* initial release.
