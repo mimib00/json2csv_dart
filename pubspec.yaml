@@ -1,0 +1,19 @@
+name: json2csv_dart
+description: "A library that help you convert list of json to a csv formatted string."
+maintainer: Mohamed Malkia
+version: 1.0.0
+homepage: https://github.com/mimib00/json2csv_dart
+
+environment:
+  sdk: ^3.5.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  csv: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
