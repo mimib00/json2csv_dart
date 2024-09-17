@@ -1,6 +1,6 @@
 # json2csv_dart
 
-[![pub package]](https://pub.dev/packages/json2csv_dart)
+[![pub package](https://img.shields.io/pub/v/json2csv_dart.svg)](https://pub.dev/packages/json2csv_dart)
 
 A library that help you convert list of json to a csv formatted string.
 
